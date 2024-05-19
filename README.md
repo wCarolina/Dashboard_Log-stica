@@ -1,7 +1,7 @@
 # Overview
 Dashboard desenvolvido para monitorar de forma eficiente as operações logísticas. 
 Desta maneira, será possível encontrar oportunidades de melhorias e garantir o cumprimento dos prazos de entrega, 
-e assim minimizar o impacto na cadeia de suprimentos organizacional.
+e assim, minimizar o impacto na cadeia de suprimentos organizacional.
 
 
 ## Objetivos da Análise
